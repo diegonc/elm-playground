@@ -6,7 +6,7 @@ Git's submodules.
 
 ### Inspecting available projects
 
-    $ git submodule summary
+    $ git submodule status
 
 ### Checking out submodules
 
