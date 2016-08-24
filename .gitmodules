@@ -1,0 +1,6 @@
+[submodule "elm-todo-reindex"]
+	path = elm-todo-reindex
+	url = https://github.com/diegonc/elm-todo-reindex.git
+[submodule "elm-pong-game"]
+	path = elm-pong-game
+	url = https://github.com/diegonc/elm-pong-game.git
