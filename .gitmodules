@@ -4,3 +4,6 @@
 [submodule "elm-pong-game"]
 	path = elm-pong-game
 	url = https://github.com/diegonc/elm-pong-game.git
+[submodule "elm-globalwebindex-challenge"]
+	path = elm-globalwebindex-challenge
+	url = https://github.com/diegonc/elm-globalwebindex-challenge.git
