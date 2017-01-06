@@ -7,3 +7,4 @@
 [submodule "elm-globalwebindex-challenge"]
 	path = elm-globalwebindex-challenge
 	url = https://github.com/diegonc/elm-globalwebindex-challenge.git
+	branch = t/first-step
