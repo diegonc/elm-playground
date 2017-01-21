@@ -8,3 +8,6 @@
 	path = elm-globalwebindex-challenge
 	url = https://github.com/diegonc/elm-globalwebindex-challenge.git
 	branch = t/first-step
+[submodule "elm-fib-rug-plot"]
+	path = elm-fib-rug-plot
+	url = https://github.com/diegonc/elm-fib-rug-plot.git
